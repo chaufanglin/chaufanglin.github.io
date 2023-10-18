@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the <a href="https://sigmedia.github.io" target="_blank">Sigmedia Group</a> at <a href="https://www.tcd.ie/" target="_blank">Trinity College Dublin (TCD)</a> under the supervision of Prof. <a href="https://sigmedia.github.io/team/nharte" target="_blank">Naomi Harteil</a> . Before joining TCD, I got a MSc degree in Electrical Engineering from Delft University of Technology, the Netherlands, and BEng degree in Telecommunications Engineering from Xidian University, China. During my master, I worked with Dr. <a href="https://odettescharenborg.wordpress.com/" target="_blank">Odette Scharenborg</a> and Dr. <a href="https://sites.google.com/site/tanvinabpatel/" target="_blank">Tanvina Patil</a> on whispered speech recognition. 
+I am a Ph.D. student in the <a href="https://sigmedia.github.io" target="_blank">Sigmedia Group</a> at <a href="https://www.tcd.ie/" target="_blank">Trinity College Dublin (TCD)</a> under the supervision of Prof. <a href="https://sigmedia.github.io/team/nharte" target="_blank">Naomi Harte</a> . Before joining TCD, I got a MSc degree in Electrical Engineering from Delft University of Technology, the Netherlands, and BEng degree in Telecommunications Engineering from Xidian University, China. During my master, I worked with Dr. <a href="https://odettescharenborg.wordpress.com/" target="_blank">Odette Scharenborg</a> and Dr. <a href="https://sites.google.com/site/tanvinabpatel/" target="_blank">Tanvina Patil</a> on whispered speech recognition. 
 
 ## Research Interests
 
