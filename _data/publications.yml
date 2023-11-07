@@ -3,11 +3,11 @@ main:
   - title: Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation
     authors: <strong>Zhaofeng Lin</strong>, Tanvina Patel, Odette Scharenborg
     conference_short: ASRU
-    conference: IEEE Automatic Speech Recogiton and Understanding Workshop <strong>(ASRU))</strong> 2023
+    conference: IEEE Automatic Speech Recogiton and Understanding Workshop (ASRU) 2023
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/chaufanglin/Normal2Whisper
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/ASRU_2023.png
     # notes: Early Accept
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
