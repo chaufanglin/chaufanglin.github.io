@@ -1,5 +1,7 @@
 # Basic Information 
-title: Zhaofeng (Chaufang) Lin
+title: Zhaofeng Lin
+sub_name: Zhaofeng (Chaufang) Lin
+cn_name: 林钊锋
 position: Ph.D. Student
 subaffiliation: Sigmedia Group
 affiliation: Trinity College Dublin
@@ -11,7 +13,7 @@ email: linzh (at) tcd.ie
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: zhaofeng lin, chaufang lin, chaufanglin, zhaofenglin, linzhaofeng
 # description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-# canonical: https://minimal-light-theme.yliu.me/
+canonical: https://chaufanglin.github.io/
 
 # Links  
 # If you don't need one of them, you may delete the corresponding line.
