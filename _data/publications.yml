@@ -1,5 +1,13 @@
 main:
 
+  - title: Uncovering the Visual Contribution in Audio-Visual Speech Recognition
+    authors: <strong>Zhaofeng Lin</strong>, Naomi Harte
+    conference_short: ICASSP
+    conference: 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing
+    pdf: https://arxiv.org/pdf/2412.17129
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/icassp2025.jpg
+    
   - title: Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation
     authors: <strong>Zhaofeng Lin</strong>, Tanvina Patel, Odette Scharenborg
     conference_short: ASRU
