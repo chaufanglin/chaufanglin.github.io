@@ -4,6 +4,7 @@ main:
     authors: <strong>Zhaofeng Lin</strong>, Naomi Harte
     conference_short: ICASSP
     conference: 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing
+    official: https://ieeexplore.ieee.org/abstract/document/10888423
     pdf: https://arxiv.org/pdf/2412.17129
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/icassp2025.jpg
@@ -12,6 +13,7 @@ main:
     authors: <strong>Zhaofeng Lin</strong>, Tanvina Patel, Odette Scharenborg
     conference_short: ASRU
     conference: IEEE Automatic Speech Recogiton and Understanding Workshop (ASRU) 2023
+    official: https://ieeexplore.ieee.org/abstract/document/10389801
     pdf: https://arxiv.org/pdf/2311.05179.pdf
     code: https://github.com/chaufanglin/Normal2Whisper
     # bibtex: https://bib.yliu.me/MICCAI23.txt
