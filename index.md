@@ -13,13 +13,13 @@ Before joining TCD, I received my MSc degree in Electrical Engineering from Delf
 - **Speech Recognition:** audio-visual speech recognition, atypical speech recognition
 - **Multimodal Learning:** multimodal fusion, audio-visual learning
 
-## News
+<!-- ## News
 
-- **[Sep. 2025]** I joined Imperial College London as a visiting PhD student, working with Dr. Stavros Petridis.
+- **[Sep. 2025]** I joined Imperial College London as a visiting PhD student, working with Dr. Stavros Petridis and Prof. Maja Pantic.
 - **[Dec. 2024]** One paper has been accepted to <a href="https://2025.ieeeicassp.org/" target="_blank">ICASSP 2025</a>.
 - **[Oct. 2023]** I started my PhD journey at Trinity College Dublin.
 - **[Sep. 2023]** My first paper about whispered speech recognition has been accepted at <a href="http://www.asru2023.org/" target="_blank">ASRU 2023</a>.
-- **[Aug. 2023]** I graduated with a Master's degree in Electrical Engineering from Delft University of Technology!
+- **[Aug. 2023]** I graduated with a Master's degree in Electrical Engineering from Delft University of Technology! -->
 
 
 
