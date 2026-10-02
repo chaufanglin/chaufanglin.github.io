@@ -1,22 +1,37 @@
 main:
+  - title: Assessing True Generalisability of Audio-Visual Speech Recognisers
+    authors: <strong>Zhaofeng Lin</strong>, Stavros Petridis, Maja Pantic and Naomi Harte
+    conference_short: Interpseech
+    conference: Interspeech 2026
+    official: https://www.isca-archive.org/interspeech_2026/lin26m_interspeech.html
+    pdf: https://arxiv.org/pdf/2606.07259
+    data: https://github.com/chaufanglin/mv2lrs3
+    image: ./assets/img/is26.jpg
+    notes: Long Paper
+
+  - title: Natural Asynchrony in Audio-Visual Speech Recognition: A Feature, not a Flaw
+    authors: <strong>Zhaofeng Lin</strong> and Naomi Harte
+    conference_short: AVSP
+    conference: The 16th International Conference on Auditory-Visual Speech Processing (AVSP 2026)
+    # official: https://ieeexplore.ieee.org/abstract/document/10888423
+    # pdf: https://arxiv.org/pdf/2412.17129
+    image: ./assets/img/avsp.jpg
 
   - title: Uncovering the Visual Contribution in Audio-Visual Speech Recognition
-    authors: <strong>Zhaofeng Lin</strong>, Naomi Harte
+    authors: <strong>Zhaofeng Lin</strong> and Naomi Harte
     conference_short: ICASSP
     conference: 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing
     official: https://ieeexplore.ieee.org/abstract/document/10888423
     pdf: https://arxiv.org/pdf/2412.17129
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/icassp2025.jpg
     
   - title: Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation
-    authors: <strong>Zhaofeng Lin</strong>, Tanvina Patel, Odette Scharenborg
+    authors: <strong>Zhaofeng Lin</strong>, Tanvina Patel and Odette Scharenborg
     conference_short: ASRU
     conference: IEEE Automatic Speech Recogiton and Understanding Workshop (ASRU) 2023
     official: https://ieeexplore.ieee.org/abstract/document/10389801
     pdf: https://arxiv.org/pdf/2311.05179.pdf
     code: https://github.com/chaufanglin/Normal2Whisper
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ASRU_2023.png
     # notes: Early Accept
 
