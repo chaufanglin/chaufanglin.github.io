@@ -1,23 +1,23 @@
 main:
-  - title: Assessing True Generalisability of Audio-Visual Speech Recognisers
+  - title: "Assessing True Generalisability of Audio-Visual Speech Recognisers"
     authors: <strong>Zhaofeng Lin</strong>, Stavros Petridis, Maja Pantic and Naomi Harte
-    conference_short: Interpseech
+    conference_short: Interspeech
     conference: Interspeech 2026
     official: https://www.isca-archive.org/interspeech_2026/lin26m_interspeech.html
     pdf: https://arxiv.org/pdf/2606.07259
     data: https://github.com/chaufanglin/mv2lrs3
-    image: ./assets/img/is26.jpg
+    image: ./assets/img/is26.png
     notes: Long Paper
 
-  - title: Natural Asynchrony in Audio-Visual Speech Recognition: A Feature, not a Flaw
+  - title: "Natural Asynchrony in Audio-Visual Speech Recognition: A Feature, not a Flaw"
     authors: <strong>Zhaofeng Lin</strong> and Naomi Harte
     conference_short: AVSP
     conference: The 16th International Conference on Auditory-Visual Speech Processing (AVSP 2026)
     # official: https://ieeexplore.ieee.org/abstract/document/10888423
     # pdf: https://arxiv.org/pdf/2412.17129
-    image: ./assets/img/avsp.jpg
+    image: ./assets/img/avsp.png
 
-  - title: Uncovering the Visual Contribution in Audio-Visual Speech Recognition
+  - title: "Uncovering the Visual Contribution in Audio-Visual Speech Recognition"
     authors: <strong>Zhaofeng Lin</strong> and Naomi Harte
     conference_short: ICASSP
     conference: 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing
@@ -25,7 +25,7 @@ main:
     pdf: https://arxiv.org/pdf/2412.17129
     image: ./assets/img/icassp2025.jpg
     
-  - title: Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation
+  - title: "Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation"
     authors: <strong>Zhaofeng Lin</strong>, Tanvina Patel and Odette Scharenborg
     conference_short: ASRU
     conference: IEEE Automatic Speech Recogiton and Understanding Workshop (ASRU) 2023
